@@ -15,4 +15,4 @@ For each chemical four contrasts between conditions were tested using GSEA:
  - Evolved in M9 vs. MG1655 in M9
  - Evolved in M9+chemical vs. MG1655 in M9+chemical
  
- The GSEA analyses were run with 1000 permutations, without collapsing gene sets, and with a lower limit on gene set size of 2.
+The GSEA analyses were run with 1000 permutations, without collapsing gene sets, and with a lower limit on gene set size of 2.
