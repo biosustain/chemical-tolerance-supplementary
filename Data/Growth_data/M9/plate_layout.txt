@@ -1,0 +1,1208 @@
+030215_isobutyrate	H2	IBUA2-1_2
+030215_isobutyrate	A3	M9 blank
+030215_isobutyrate	C8	IBUA6-7_3
+030215_isobutyrate	F10	IBUA8-3_2
+030215_isobutyrate	F4	IBUA3-4_2
+030215_isobutyrate	H9	IBUA7-7_3
+030215_isobutyrate	A2	IBUA1-7_1
+030215_isobutyrate	E8	IBUA6-9_2
+030215_isobutyrate	F5	IBUA4-1_3
+030215_isobutyrate	G11	M9 blank
+030215_isobutyrate	F12	M9 blank
+030215_isobutyrate	B1	MG1655_2
+030215_isobutyrate	A11	M9 blank
+030215_isobutyrate	C6	IBUA4-9_1
+030215_isobutyrate	A9	M9 blank
+030215_isobutyrate	E5	IBUA4-1_2
+030215_isobutyrate	D6	IBUA4-9_2
+030215_isobutyrate	C10	IBUA7-9_2
+030215_isobutyrate	G1	IBUA1-5_2
+030215_isobutyrate	F8	IBUA6-9_3
+030215_isobutyrate	G3	IBUA2-9_2
+030215_isobutyrate	D2	IBUA1-9_1
+030215_isobutyrate	B6	IBUA4-8_3
+030215_isobutyrate	E11	IBUA8-10_2
+030215_isobutyrate	C12	M9 blank
+030215_isobutyrate	G6	IBUA5-2_2
+030215_isobutyrate	E9	IBUA7-6_3
+030215_isobutyrate	E10	IBUA8-3_1
+030215_isobutyrate	H12	M9 blank
+030215_isobutyrate	E2	IBUA1-9_2
+030215_isobutyrate	F6	IBUA5-2_1
+030215_isobutyrate	G2	IBUA2-1_1
+030215_isobutyrate	B11	IBUA8-4_2
+030215_isobutyrate	D12	M9 blank
+030215_isobutyrate	F11	IBUA8-10_3
+030215_isobutyrate	A5	M9 blank
+030215_isobutyrate	H5	IBUA4-8_2
+030215_isobutyrate	G10	IBUA8-3_3
+030215_isobutyrate	H4	IBUA3-10_1
+030215_isobutyrate	E6	IBUA4-9_3
+030215_isobutyrate	A7	M9 blank
+030215_isobutyrate	D8	IBUA6-9_1
+030215_isobutyrate	A6	M9 blank
+030215_isobutyrate	F1	IBUA1-5_1
+030215_isobutyrate	D10	IBUA7-9_3
+030215_isobutyrate	E7	IBUA5-6_1
+030215_isobutyrate	C11	IBUA8-4_3
+030215_isobutyrate	D9	IBUA7-6_2
+030215_isobutyrate	C2	IBUA1-7_3
+030215_isobutyrate	H6	IBUA5-2_3
+030215_isobutyrate	D11	IBUA8-10_1
+030215_isobutyrate	B3	IBUA2-1_3
+030215_isobutyrate	H10	IBUA8-4_1
+030215_isobutyrate	B8	IBUA6-7_2
+030215_isobutyrate	A1	MG1655_1
+030215_isobutyrate	B4	IBUA3-2_1
+030215_isobutyrate	C4	IBUA3-2_2
+030215_isobutyrate	D1	MG1655_4
+030215_isobutyrate	G5	IBUA4-8_1
+030215_isobutyrate	B10	IBUA7-9_1
+030215_isobutyrate	F9	IBUA7-7_1
+030215_isobutyrate	H7	IBUA6-7_1
+030215_isobutyrate	F7	IBUA5-6_2
+030215_isobutyrate	D3	IBUA2-6_2
+030215_isobutyrate	F2	IBUA1-9_3
+030215_isobutyrate	E1	MG1655_5
+030215_isobutyrate	H1	IBUA1-5_3
+030215_isobutyrate	H11	M9 blank
+030215_isobutyrate	A8	M9 blank
+030215_isobutyrate	H8	IBUA6-10_2
+030215_isobutyrate	G9	IBUA7-7_2
+030215_isobutyrate	G7	IBUA5-6_3
+030215_isobutyrate	A10	M9 blank
+030215_isobutyrate	C3	IBUA2-6_1
+030215_isobutyrate	F3	IBUA2-9_1
+030215_isobutyrate	D4	IBUA3-2_3
+030215_isobutyrate	C9	IBUA7-6_1
+030215_isobutyrate	E4	IBUA3-4_1
+030215_isobutyrate	H3	IBUA2-9_3
+030215_isobutyrate	E12	M9 blank
+030215_isobutyrate	D5	IBUA4-1_1
+030215_isobutyrate	E3	IBUA2-6_3
+030215_isobutyrate	B5	IBUA3-10_2
+030215_isobutyrate	B12	M9 blank
+030215_isobutyrate	C1	MG1655_3
+030215_isobutyrate	B7	IBUA5-5_1
+030215_isobutyrate	G8	IBUA6-10_1
+030215_isobutyrate	B9	IBUA6-10_3
+030215_isobutyrate	B2	IBUA1-7_2
+030215_isobutyrate	A12	M9 blank
+030215_isobutyrate	D7	IBUA5-5_3
+030215_isobutyrate	C7	IBUA5-5_2
+030215_isobutyrate	G12	M9 blank
+030215_isobutyrate	G4	IBUA3-4_3
+030215_isobutyrate	A4	M9 blank
+030215_isobutyrate	C5	IBUA3-10_3
+111114_coumarate	H2	COUM2-3_2
+111114_coumarate	A3	M9 blank
+111114_coumarate	C8	COUM6-2_3
+111114_coumarate	F10	COUM8-1_2
+111114_coumarate	F4	COUM3-7_2
+111114_coumarate	H9	COUM7-6_3
+111114_coumarate	A2	COUM1-7_1
+111114_coumarate	E8	COUM6-5_2
+111114_coumarate	F5	COUM4-2_3
+111114_coumarate	G11	COUM3-10_1
+111114_coumarate	F12	M9 blank
+111114_coumarate	B1	MG1655_2
+111114_coumarate	A11	M9 blank
+111114_coumarate	C6	COUM4-10_1
+111114_coumarate	A9	M9 blank
+111114_coumarate	E5	COUM4-2_2
+111114_coumarate	D6	COUM4-10_2
+111114_coumarate	C10	COUM7-9_2
+111114_coumarate	G1	COUM1-2_2
+111114_coumarate	F8	COUM6-5_3
+111114_coumarate	G3	COUM2-7_2
+111114_coumarate	D2	COUM1-10_1
+111114_coumarate	B6	COUM4-5_3
+111114_coumarate	E11	COUM8-8_2
+111114_coumarate	C12	COUM4-8_1
+111114_coumarate	G6	COUM5-3_2
+111114_coumarate	E9	COUM7-5_3
+111114_coumarate	E10	COUM8-1_1
+111114_coumarate	H12	M9 blank
+111114_coumarate	E2	COUM1-10_2
+111114_coumarate	F6	COUM5-3_1
+111114_coumarate	G2	COUM2-3_1
+111114_coumarate	B11	COUM8-6_2
+111114_coumarate	D12	COUM4-8_2
+111114_coumarate	F11	COUM8-8_3
+111114_coumarate	A5	M9 blank
+111114_coumarate	H5	COUM4-5_2
+111114_coumarate	G10	COUM8-1_3
+111114_coumarate	H4	COUM3-9_1
+111114_coumarate	E6	COUM4-10_3
+111114_coumarate	A7	M9 blank
+111114_coumarate	D8	COUM6-5_1
+111114_coumarate	A6	M9 blank
+111114_coumarate	F1	COUM1-2_1
+111114_coumarate	D10	COUM7-9_3
+111114_coumarate	E7	COUM5-8_1
+111114_coumarate	C11	COUM8-6_3
+111114_coumarate	D9	COUM7-5_2
+111114_coumarate	C2	COUM1-7_3
+111114_coumarate	H6	COUM5-3_3
+111114_coumarate	D11	COUM8-8_1
+111114_coumarate	B3	COUM2-3_3
+111114_coumarate	H10	COUM8-6_1
+111114_coumarate	B8	COUM6-2_2
+111114_coumarate	A1	MG1655_1
+111114_coumarate	B4	COUM3-1_1
+111114_coumarate	C4	COUM3-1_2
+111114_coumarate	D1	MG1655_4
+111114_coumarate	G5	COUM4-5_1
+111114_coumarate	B10	COUM7-9_1
+111114_coumarate	F9	COUM7-6_1
+111114_coumarate	H7	COUM6-2_1
+111114_coumarate	F7	COUM5-8_2
+111114_coumarate	D3	COUM2-4_2
+111114_coumarate	F2	COUM1-10_3
+111114_coumarate	E1	MG1655_5
+111114_coumarate	H1	COUM1-2_3
+111114_coumarate	H11	COUM3-10_2
+111114_coumarate	A8	M9 blank
+111114_coumarate	H8	COUM6-9_2
+111114_coumarate	G9	COUM7-6_2
+111114_coumarate	G7	COUM5-8_3
+111114_coumarate	A10	M9 blank
+111114_coumarate	C3	COUM2-4_1
+111114_coumarate	F3	COUM2-7_1
+111114_coumarate	D4	COUM3-1_3
+111114_coumarate	C9	COUM7-5_1
+111114_coumarate	E4	COUM3-7_1
+111114_coumarate	H3	COUM2-7_3
+111114_coumarate	E12	COUM4-8_3
+111114_coumarate	D5	COUM4-2_1
+111114_coumarate	E3	COUM2-4_3
+111114_coumarate	B5	COUM3-9_2
+111114_coumarate	B12	COUM3-10_3
+111114_coumarate	C1	MG1655_3
+111114_coumarate	B7	COUM5-5_1
+111114_coumarate	G8	COUM6-9_1
+111114_coumarate	B9	COUM6-9_3
+111114_coumarate	B2	COUM1-7_2
+111114_coumarate	A12	M9 blank
+111114_coumarate	D7	COUM5-5_3
+111114_coumarate	C7	COUM5-5_2
+111114_coumarate	G12	M9 blank
+111114_coumarate	G4	COUM3-7_3
+111114_coumarate	A4	M9 blank
+111114_coumarate	C5	COUM3-9_3
+041415_2,3-butanediol	H2	23BD2-4_2
+041415_2,3-butanediol	A3	M9 blank
+041415_2,3-butanediol	C8	23BD6-1_3
+041415_2,3-butanediol	F10	23BD8-2_2
+041415_2,3-butanediol	F4	23BD3-4_2
+041415_2,3-butanediol	H9	23BD7-5_3
+041415_2,3-butanediol	A2	23BD1-8_1
+041415_2,3-butanediol	E8	23BD2-5_2
+041415_2,3-butanediol	F5	23BD4-3_3
+041415_2,3-butanediol	G11	M9 blank
+041415_2,3-butanediol	F12	M9 blank
+041415_2,3-butanediol	B1	MG1655_2
+041415_2,3-butanediol	A11	M9 blank
+041415_2,3-butanediol	C6	23BD4-7_1
+041415_2,3-butanediol	A9	M9 blank
+041415_2,3-butanediol	E5	23BD4-3_2
+041415_2,3-butanediol	D6	23BD4-7_2
+041415_2,3-butanediol	C10	23BD7-7_2
+041415_2,3-butanediol	G1	23BD1-6_2
+041415_2,3-butanediol	F8	23BD2-5_3
+041415_2,3-butanediol	G3	23BD2-9_2
+041415_2,3-butanediol	D2	23BD1-9_1
+041415_2,3-butanediol	B6	23BD4-4_3
+041415_2,3-butanediol	E11	23BD8-7_2
+041415_2,3-butanediol	C12	M9 blank
+041415_2,3-butanediol	G6	23BD5-1_2
+041415_2,3-butanediol	E9	23BD7-4_3
+041415_2,3-butanediol	E10	23BD8-2_1
+041415_2,3-butanediol	H12	M9 blank
+041415_2,3-butanediol	E2	23BD1-9_2
+041415_2,3-butanediol	F6	23BD5-1_1
+041415_2,3-butanediol	G2	23BD2-4_1
+041415_2,3-butanediol	B11	23BD8-5_2
+041415_2,3-butanediol	D12	M9 blank
+041415_2,3-butanediol	F11	23BD8-7_3
+041415_2,3-butanediol	A5	M9 blank
+041415_2,3-butanediol	H5	23BD4-4_2
+041415_2,3-butanediol	G10	23BD8-2_3
+041415_2,3-butanediol	H4	23BD3-9_1
+041415_2,3-butanediol	E6	23BD4-7_3
+041415_2,3-butanediol	A7	M9 blank
+041415_2,3-butanediol	D8	23BD2-5_1
+041415_2,3-butanediol	A6	M9 blank
+041415_2,3-butanediol	F1	23BD1-6_1
+041415_2,3-butanediol	D10	23BD7-7_3
+041415_2,3-butanediol	E7	23BD5-10_1
+041415_2,3-butanediol	C11	23BD8-5_3
+041415_2,3-butanediol	D9	23BD7-4_2
+041415_2,3-butanediol	C2	23BD1-8_3
+041415_2,3-butanediol	H6	23BD5-1_3
+041415_2,3-butanediol	D11	23BD8-7_1
+041415_2,3-butanediol	B3	23BD2-4_3
+041415_2,3-butanediol	H10	23BD8-5_1
+041415_2,3-butanediol	B8	23BD6-1_2
+041415_2,3-butanediol	A1	MG1655_1
+041415_2,3-butanediol	B4	23BD3-3_1
+041415_2,3-butanediol	C4	23BD3-3_2
+041415_2,3-butanediol	D1	MG1655_4
+041415_2,3-butanediol	G5	23BD4-4_1
+041415_2,3-butanediol	B10	23BD7-7_1
+041415_2,3-butanediol	F9	23BD7-5_1
+041415_2,3-butanediol	H7	23BD6-1_1
+041415_2,3-butanediol	F7	23BD5-10_2
+041415_2,3-butanediol	D3	23BD2-7_2
+041415_2,3-butanediol	F2	23BD1-9_3
+041415_2,3-butanediol	E1	MG1655_5
+041415_2,3-butanediol	H1	23BD1-6_3
+041415_2,3-butanediol	H11	M9 blank
+041415_2,3-butanediol	A8	M9 blank
+041415_2,3-butanediol	H8	23BD7-10_2
+041415_2,3-butanediol	G9	23BD7-5_2
+041415_2,3-butanediol	G7	23BD5-10_3
+041415_2,3-butanediol	A10	M9 blank
+041415_2,3-butanediol	C3	23BD2-7_1
+041415_2,3-butanediol	F3	23BD2-9_1
+041415_2,3-butanediol	D4	23BD3-3_3
+041415_2,3-butanediol	C9	23BD7-4_1
+041415_2,3-butanediol	E4	23BD3-4_1
+041415_2,3-butanediol	H3	23BD2-9_3
+041415_2,3-butanediol	E12	M9 blank
+041415_2,3-butanediol	D5	23BD4-3_1
+041415_2,3-butanediol	E3	23BD2-7_3
+041415_2,3-butanediol	B5	23BD3-9_2
+041415_2,3-butanediol	B12	M9 blank
+041415_2,3-butanediol	C1	MG1655_3
+041415_2,3-butanediol	B7	23BD5-7_1
+041415_2,3-butanediol	G8	23BD7-10_1
+041415_2,3-butanediol	B9	23BD7-10_3
+041415_2,3-butanediol	B2	23BD1-8_2
+041415_2,3-butanediol	A12	M9 blank
+041415_2,3-butanediol	D7	23BD5-7_3
+041415_2,3-butanediol	C7	23BD5-7_2
+041415_2,3-butanediol	G12	M9 blank
+041415_2,3-butanediol	G4	23BD3-4_3
+041415_2,3-butanediol	A4	M9 blank
+041415_2,3-butanediol	C5	23BD3-9_3
+042215_1,2-propanediol	H2	12PD2-5_2
+042215_1,2-propanediol	A3	M9 blank
+042215_1,2-propanediol	C8	12PD6-3_3
+042215_1,2-propanediol	F10	12PD8-6_2
+042215_1,2-propanediol	F4	12PD3-8_2
+042215_1,2-propanediol	H9	12PD7-6_3
+042215_1,2-propanediol	A2	12PD1-4_1
+042215_1,2-propanediol	E8	12PD6-6_2
+042215_1,2-propanediol	F5	12PD4-6_3
+042215_1,2-propanediol	G11	M9 blank
+042215_1,2-propanediol	F12	M9 blank
+042215_1,2-propanediol	B1	MG1655_2
+042215_1,2-propanediol	A11	M9 blank
+042215_1,2-propanediol	C6	12PD4-9_1
+042215_1,2-propanediol	A9	M9 blank
+042215_1,2-propanediol	E5	12PD4-6_2
+042215_1,2-propanediol	D6	12PD4-9_2
+042215_1,2-propanediol	C10	12PD7-7_2
+042215_1,2-propanediol	G1	12PD1-2_2
+042215_1,2-propanediol	F8	12PD6-6_3
+042215_1,2-propanediol	G3	12PD2-9_2
+042215_1,2-propanediol	D2	12PD1-10_1
+042215_1,2-propanediol	B6	12PD4-8_3
+042215_1,2-propanediol	E11	12PD8-10_2
+042215_1,2-propanediol	C12	M9 blank
+042215_1,2-propanediol	G6	12PD5-1_2
+042215_1,2-propanediol	E9	12PD7-5_3
+042215_1,2-propanediol	E10	12PD8-6_1
+042215_1,2-propanediol	H12	M9 blank
+042215_1,2-propanediol	E2	12PD1-10_2
+042215_1,2-propanediol	F6	12PD5-1_1
+042215_1,2-propanediol	G2	12PD2-5_1
+042215_1,2-propanediol	B11	12PD8-7_2
+042215_1,2-propanediol	D12	M9 blank
+042215_1,2-propanediol	F11	12PD8-10_3
+042215_1,2-propanediol	A5	M9 blank
+042215_1,2-propanediol	H5	12PD4-8_2
+042215_1,2-propanediol	G10	12PD8-6_3
+042215_1,2-propanediol	H4	12PD3-10_1
+042215_1,2-propanediol	E6	12PD4-9_3
+042215_1,2-propanediol	A7	M9 blank
+042215_1,2-propanediol	D8	12PD6-6_1
+042215_1,2-propanediol	A6	M9 blank
+042215_1,2-propanediol	F1	12PD1-2_1
+042215_1,2-propanediol	D10	12PD7-7_3
+042215_1,2-propanediol	E7	12PD5-9_1
+042215_1,2-propanediol	C11	12PD8-7_3
+042215_1,2-propanediol	D9	12PD7-5_2
+042215_1,2-propanediol	C2	12PD1-4_3
+042215_1,2-propanediol	H6	12PD5-1_3
+042215_1,2-propanediol	D11	12PD8-10_1
+042215_1,2-propanediol	B3	12PD2-5_3
+042215_1,2-propanediol	H10	12PD8-7_1
+042215_1,2-propanediol	B8	12PD6-3_2
+042215_1,2-propanediol	A1	MG1655_1
+042215_1,2-propanediol	B4	12PD3-7_1
+042215_1,2-propanediol	C4	12PD3-7_2
+042215_1,2-propanediol	D1	MG1655_4
+042215_1,2-propanediol	G5	12PD4-8_1
+042215_1,2-propanediol	B10	12PD7-7_1
+042215_1,2-propanediol	F9	12PD7-6_1
+042215_1,2-propanediol	H7	12PD6-3_1
+042215_1,2-propanediol	F7	12PD5-9_2
+042215_1,2-propanediol	D3	12PD2-8_2
+042215_1,2-propanediol	F2	12PD1-10_3
+042215_1,2-propanediol	E1	MG1655_5
+042215_1,2-propanediol	H1	12PD1-2_3
+042215_1,2-propanediol	H11	M9 blank
+042215_1,2-propanediol	A8	M9 blank
+042215_1,2-propanediol	H8	12PD6-9_2
+042215_1,2-propanediol	G9	12PD7-6_2
+042215_1,2-propanediol	G7	12PD5-9_3
+042215_1,2-propanediol	A10	M9 blank
+042215_1,2-propanediol	C3	12PD2-8_1
+042215_1,2-propanediol	F3	12PD2-9_1
+042215_1,2-propanediol	D4	12PD3-7_3
+042215_1,2-propanediol	C9	12PD7-5_1
+042215_1,2-propanediol	E4	12PD3-8_1
+042215_1,2-propanediol	H3	12PD2-9_3
+042215_1,2-propanediol	E12	M9 blank
+042215_1,2-propanediol	D5	12PD4-6_1
+042215_1,2-propanediol	E3	12PD2-8_3
+042215_1,2-propanediol	B5	12PD3-10_2
+042215_1,2-propanediol	B12	M9 blank
+042215_1,2-propanediol	C1	MG1655_3
+042215_1,2-propanediol	B7	12PD5-3_1
+042215_1,2-propanediol	G8	12PD6-9_1
+042215_1,2-propanediol	B9	12PD6-9_3
+042215_1,2-propanediol	B2	12PD1-4_2
+042215_1,2-propanediol	A12	M9 blank
+042215_1,2-propanediol	D7	12PD5-3_3
+042215_1,2-propanediol	C7	12PD5-3_2
+042215_1,2-propanediol	G12	M9 blank
+042215_1,2-propanediol	G4	12PD3-8_3
+042215_1,2-propanediol	A4	M9 blank
+042215_1,2-propanediol	C5	12PD3-10_3
+041715_hexanoate	H2	HEXA2-3_2
+041715_hexanoate	A3	M9 blank
+041715_hexanoate	C8	HEXA6-4_3
+041715_hexanoate	F10	HEXA8-1_2
+041715_hexanoate	F4	HEXA3-7_2
+041715_hexanoate	H9	HEXA7-3_3
+041715_hexanoate	A2	HEXA1-4_1
+041715_hexanoate	E8	HEXA6-7_2
+041715_hexanoate	F5	HEXA4-4_3
+041715_hexanoate	G11	HEXA8-5_4
+041715_hexanoate	F12	M9 blank
+041715_hexanoate	B1	MG1655_2
+041715_hexanoate	A11	M9 blank
+041715_hexanoate	C6	HEXA4-10_1
+041715_hexanoate	A9	M9 blank
+041715_hexanoate	E5	HEXA4-4_2
+041715_hexanoate	D6	HEXA4-10_2
+041715_hexanoate	C10	HEXA7-4_2
+041715_hexanoate	G1	HEXA1-1_2
+041715_hexanoate	F8	HEXA6-7_3
+041715_hexanoate	G3	HEXA2-10_2
+041715_hexanoate	D2	HEXA1-5_1
+041715_hexanoate	B6	HEXA4-7_3
+041715_hexanoate	E11	HEXA8-5_2
+041715_hexanoate	C12	M9 blank
+041715_hexanoate	G6	HEXA5-7_2
+041715_hexanoate	E9	HEXA7-2_3
+041715_hexanoate	E10	HEXA8-1_1
+041715_hexanoate	H12	M9 blank
+041715_hexanoate	E2	HEXA1-5_2
+041715_hexanoate	F6	HEXA5-7_1
+041715_hexanoate	G2	HEXA2-3_1
+041715_hexanoate	B11	HEXA8-2_2
+041715_hexanoate	D12	M9 blank
+041715_hexanoate	F11	HEXA8-5_3
+041715_hexanoate	A5	M9 blank
+041715_hexanoate	H5	HEXA4-7_2
+041715_hexanoate	G10	HEXA8-1_3
+041715_hexanoate	H4	HEXA3-9_1
+041715_hexanoate	E6	HEXA4-10_3
+041715_hexanoate	A7	M9 blank
+041715_hexanoate	D8	HEXA6-7_1
+041715_hexanoate	A6	M9 blank
+041715_hexanoate	F1	HEXA1-1_1
+041715_hexanoate	D10	HEXA7-4_3
+041715_hexanoate	E7	HEXA5-10_1
+041715_hexanoate	C11	HEXA8-2_3
+041715_hexanoate	D9	HEXA7-2_2
+041715_hexanoate	C2	HEXA1-4_3
+041715_hexanoate	H6	HEXA5-7_3
+041715_hexanoate	D11	HEXA8-5_1
+041715_hexanoate	B3	HEXA2-3_3
+041715_hexanoate	H10	HEXA8-2_1
+041715_hexanoate	B8	HEXA6-4_2
+041715_hexanoate	A1	MG1655_1
+041715_hexanoate	B4	HEXA3-1_1
+041715_hexanoate	C4	HEXA3-1_2
+041715_hexanoate	D1	MG1655_4
+041715_hexanoate	G5	HEXA4-7_1
+041715_hexanoate	B10	HEXA7-4_1
+041715_hexanoate	F9	HEXA7-3_1
+041715_hexanoate	H7	HEXA6-4_1
+041715_hexanoate	F7	HEXA5-10_2
+041715_hexanoate	D3	HEXA2-9_2
+041715_hexanoate	F2	HEXA1-5_3
+041715_hexanoate	E1	MG1655_5
+041715_hexanoate	H1	HEXA1-1_3
+041715_hexanoate	H11	M9 blank
+041715_hexanoate	A8	M9 blank
+041715_hexanoate	H8	HEXA6-9_2
+041715_hexanoate	G9	HEXA7-3_2
+041715_hexanoate	G7	HEXA5-10_3
+041715_hexanoate	A10	M9 blank
+041715_hexanoate	C3	HEXA2-9_1
+041715_hexanoate	F3	HEXA2-10_1
+041715_hexanoate	D4	HEXA3-1_3
+041715_hexanoate	C9	HEXA7-2_1
+041715_hexanoate	E4	HEXA3-7_1
+041715_hexanoate	H3	HEXA2-10_3
+041715_hexanoate	E12	M9 blank
+041715_hexanoate	D5	HEXA4-4_1
+041715_hexanoate	E3	HEXA2-9_3
+041715_hexanoate	B5	HEXA3-9_2
+041715_hexanoate	B12	M9 blank
+041715_hexanoate	C1	MG1655_3
+041715_hexanoate	B7	HEXA5-8_1
+041715_hexanoate	G8	HEXA6-9_1
+041715_hexanoate	B9	HEXA6-9_3
+041715_hexanoate	B2	HEXA1-4_2
+041715_hexanoate	A12	M9 blank
+041715_hexanoate	D7	HEXA5-8_3
+041715_hexanoate	C7	HEXA5-8_2
+041715_hexanoate	G12	M9 blank
+041715_hexanoate	G4	HEXA3-7_3
+041715_hexanoate	A4	M9 blank
+041715_hexanoate	C5	HEXA3-9_3
+042415_odds-n-ends	H2	COUM8-6_3
+042415_odds-n-ends	A3	M9 blank
+042415_odds-n-ends	F4	PUTR8-10_2
+042415_odds-n-ends	A2	M9 blank
+042415_odds-n-ends	F5	ADIP6-10_1
+042415_odds-n-ends	B1	MG1655_2
+042415_odds-n-ends	C6	HEXA8-5sm_2
+042415_odds-n-ends	E5	ADIP6-3_2
+042415_odds-n-ends	D6	HEXA8-5sm_3
+042415_odds-n-ends	G1	BUT9-10_3
+042415_odds-n-ends	G3	PUTR6-7_2
+042415_odds-n-ends	D2	COUM6-5_2
+042415_odds-n-ends	B6	HEXA8-5sm_1
+042415_odds-n-ends	G6	23BD6-1_2
+042415_odds-n-ends	E2	COUM7-9_1
+042415_odds-n-ends	F6	HEXA7-4sm_3
+042415_odds-n-ends	G2	COUM8-6_2
+042415_odds-n-ends	A5	M9 blank
+042415_odds-n-ends	H5	ADIP8-7_2
+042415_odds-n-ends	H4	HDMA6-10_2
+042415_odds-n-ends	E6	HEXA7-4sm_2
+042415_odds-n-ends	A7	M9 blank
+042415_odds-n-ends	A6	M9 blank
+042415_odds-n-ends	F1	BUT8-10_3
+042415_odds-n-ends	E7	PUTR8-10_3
+042415_odds-n-ends	C2	COUM4-10_3
+042415_odds-n-ends	H6	23BD8-5_3
+042415_odds-n-ends	B3	PUTR4-8_3
+042415_odds-n-ends	A1	MG1655_1
+042415_odds-n-ends	B4	PUTR8-6_2
+042415_odds-n-ends	C4	PUTR8-6_3
+042415_odds-n-ends	D1	MG1655_4
+042415_odds-n-ends	G5	ADIP6-10_2
+042415_odds-n-ends	H7	M9 blank
+042415_odds-n-ends	F7	M9 blank
+042415_odds-n-ends	D3	PUTR5-1_2
+042415_odds-n-ends	F2	COUM7-9_2
+042415_odds-n-ends	E1	MG1655_5
+042415_odds-n-ends	H1	COUM3-7_1
+042415_odds-n-ends	G7	M9 blank
+042415_odds-n-ends	C3	PUTR5-1_1
+042415_odds-n-ends	F3	PUTR6-7_1
+042415_odds-n-ends	D4	PUTR8-10_1
+042415_odds-n-ends	E4	don't use
+042415_odds-n-ends	H3	PUTR8-3_2
+042415_odds-n-ends	D5	ADIP7-5_3
+042415_odds-n-ends	E3	don't use
+042415_odds-n-ends	B5	HDMA8-9_2
+042415_odds-n-ends	C1	MG1655_3
+042415_odds-n-ends	B7	12PD7-5_1
+042415_odds-n-ends	B2	COUM4-2_2
+042415_odds-n-ends	D7	PUTR6-7_3
+042415_odds-n-ends	C7	12PD7-7_3
+042415_odds-n-ends	G4	HDMA6-10_1
+042415_odds-n-ends	A4	M9 blank
+042415_odds-n-ends	C5	HDMA8-10_1
+030415_octanoate	H2	OCTA2-4_2
+030415_octanoate	A3	OCTA2-9_3
+030415_octanoate	C8	OCTA6-5_3
+030415_octanoate	F10	OCTA8-5_2
+030415_octanoate	F4	OCTA2-16_2
+030415_octanoate	H9	OCTA7-9_3
+030415_octanoate	A2	OCTA1-5_1
+030415_octanoate	E8	OCTA6-6_2
+030415_octanoate	F5	OCTA4-9_3
+030415_octanoate	G11	M9 blank
+030415_octanoate	F12	M9 blank
+030415_octanoate	B1	MG1655_2
+030415_octanoate	A11	M9 blank
+030415_octanoate	C6	OCTA4-13_1
+030415_octanoate	A9	M9 blank
+030415_octanoate	E5	OCTA4-9_2
+030415_octanoate	D6	OCTA4-13_2
+030415_octanoate	C10	OCTA7-10_2
+030415_octanoate	G1	OCTA1-3_2
+030415_octanoate	F8	OCTA6-6_3
+030415_octanoate	G3	OCTA2-10_2
+030415_octanoate	D2	OCTA1-9_1
+030415_octanoate	B6	OCTA4-10_3
+030415_octanoate	E11	OCTA8-10_2
+030415_octanoate	C12	M9 blank
+030415_octanoate	G6	OCTA5-4_2
+030415_octanoate	E9	OCTA7-2_3
+030415_octanoate	E10	OCTA8-5_1
+030415_octanoate	H12	M9 blank
+030415_octanoate	E2	OCTA1-9_2
+030415_octanoate	F6	OCTA5-4_1
+030415_octanoate	G2	OCTA2-4_1
+030415_octanoate	B11	OCTA8-7_2
+030415_octanoate	D12	M9 blank
+030415_octanoate	F11	OCTA8-10_3
+030415_octanoate	A5	M9 blank
+030415_octanoate	H5	OCTA4-10_2
+030415_octanoate	G10	OCTA8-5_3
+030415_octanoate	H4	OCTA4-5_1
+030415_octanoate	E6	OCTA4-13_3
+030415_octanoate	A7	M9 blank
+030415_octanoate	D8	OCTA6-6_1
+030415_octanoate	A6	M9 blank
+030415_octanoate	F1	OCTA1-3_1
+030415_octanoate	D10	OCTA7-10_3
+030415_octanoate	E7	OCTA5-9_1
+030415_octanoate	C11	OCTA8-7_3
+030415_octanoate	D9	OCTA7-2_2
+030415_octanoate	C2	OCTA1-5_3
+030415_octanoate	H6	OCTA5-4_3
+030415_octanoate	D11	OCTA8-10_1
+030415_octanoate	B3	OCTA2-4_3
+030415_octanoate	H10	OCTA8-7_1
+030415_octanoate	B8	OCTA6-5_2
+030415_octanoate	A1	MG1655_1
+030415_octanoate	B4	OCTA2-14_1
+030415_octanoate	C4	OCTA2-14_2
+030415_octanoate	D1	MG1655_4
+030415_octanoate	G5	OCTA4-10_1
+030415_octanoate	B10	OCTA7-10_1
+030415_octanoate	F9	OCTA7-9_1
+030415_octanoate	H7	OCTA6-5_1
+030415_octanoate	F7	OCTA5-9_2
+030415_octanoate	D3	OCTA2-9_2
+030415_octanoate	F2	OCTA1-9_3
+030415_octanoate	E1	MG1655_5
+030415_octanoate	H1	OCTA1-3_3
+030415_octanoate	H11	M9 blank
+030415_octanoate	A8	M9 blank
+030415_octanoate	H8	OCTA6-7_2
+030415_octanoate	G9	OCTA7-9_2
+030415_octanoate	G7	OCTA5-9_3
+030415_octanoate	A10	M9 blank
+030415_octanoate	C3	OCTA2-9_1
+030415_octanoate	F3	OCTA2-10_1
+030415_octanoate	D4	OCTA2-14_3
+030415_octanoate	C9	OCTA7-2_1
+030415_octanoate	E4	OCTA2-16_1
+030415_octanoate	H3	OCTA2-10_3
+030415_octanoate	E12	M9 blank
+030415_octanoate	D5	OCTA4-9_1
+030415_octanoate	E3	don't use
+030415_octanoate	B5	OCTA4-5_2
+030415_octanoate	B12	M9 blank
+030415_octanoate	C1	MG1655_3
+030415_octanoate	B7	OCTA5-8_1
+030415_octanoate	G8	OCTA6-7_1
+030415_octanoate	B9	OCTA6-7_3
+030415_octanoate	B2	OCTA1-5_2
+030415_octanoate	A12	M9 blank
+030415_octanoate	D7	OCTA5-8_3
+030415_octanoate	C7	OCTA5-8_2
+030415_octanoate	G12	M9 blank
+030415_octanoate	G4	OCTA2-16_3
+030415_octanoate	A4	M9 blank
+030415_octanoate	C5	OCTA4-5_3
+110714_butanol	H2	BUT2-1_2
+110714_butanol	A3	M9 blank
+110714_butanol	C8	BUT6-1_3
+110714_butanol	F10	BUT8-5_2
+110714_butanol	F4	BUT3-6_2
+110714_butanol	H9	BUT7-7_3
+110714_butanol	A2	BUT1-3_1
+110714_butanol	E8	BUT6-3_2
+110714_butanol	F5	BUT4-4_3
+110714_butanol	G11	BUT9-5_1
+110714_butanol	F12	BUT9-10_1
+110714_butanol	B1	MG1655_2
+110714_butanol	A11	M9 blank
+110714_butanol	C6	BUT4-9_1
+110714_butanol	A9	M9 blank
+110714_butanol	E5	BUT4-4_2
+110714_butanol	D6	BUT4-9_2
+110714_butanol	C10	BUT7-9_2
+110714_butanol	G1	BUT1-2_2
+110714_butanol	F8	BUT6-3_3
+110714_butanol	G3	BUT2-9_2
+110714_butanol	D2	BUT1-5_1
+110714_butanol	B6	BUT4-7_3
+110714_butanol	E11	BUT8-10_2
+110714_butanol	C12	BUT9-7_1
+110714_butanol	G6	BUT5-2_2
+110714_butanol	E9	BUT7-6_3
+110714_butanol	E10	BUT8-5_1
+110714_butanol	H12	BUT9-10_3
+110714_butanol	E2	BUT1-5_2
+110714_butanol	F6	BUT5-2_1
+110714_butanol	G2	BUT2-1_1
+110714_butanol	B11	BUT8-7_2
+110714_butanol	D12	BUT9-7_2
+110714_butanol	F11	BUT8-10_3
+110714_butanol	A5	M9 blank
+110714_butanol	H5	BUT4-7_2
+110714_butanol	G10	BUT8-5_3
+110714_butanol	H4	BUT3-7_1
+110714_butanol	E6	BUT4-9_3
+110714_butanol	A7	M9 blank
+110714_butanol	D8	BUT6-3_1
+110714_butanol	A6	M9 blank
+110714_butanol	F1	BUT1-2_1
+110714_butanol	D10	BUT7-9_3
+110714_butanol	E7	BUT5-6_1
+110714_butanol	C11	BUT8-7_3
+110714_butanol	D9	BUT7-6_2
+110714_butanol	C2	BUT1-3_3
+110714_butanol	H6	BUT5-2_3
+110714_butanol	D11	BUT8-10_1
+110714_butanol	B3	BUT2-1_3
+110714_butanol	H10	BUT8-7_1
+110714_butanol	B8	BUT6-1_2
+110714_butanol	A1	MG1655_1
+110714_butanol	B4	BUT3-3_1
+110714_butanol	C4	BUT3-3_2
+110714_butanol	D1	MG1655_4
+110714_butanol	G5	BUT4-7_1
+110714_butanol	B10	BUT7-9_1
+110714_butanol	F9	BUT7-7_1
+110714_butanol	H7	BUT6-1_1
+110714_butanol	F7	BUT5-6_2
+110714_butanol	D3	BUT2-8_2
+110714_butanol	F2	BUT1-5_3
+110714_butanol	E1	MG1655_5
+110714_butanol	H1	BUT1-2_3
+110714_butanol	H11	BUT9-5_2
+110714_butanol	A8	M9 blank
+110714_butanol	H8	BUT6-8_2
+110714_butanol	G9	BUT7-7_2
+110714_butanol	G7	BUT5-6_3
+110714_butanol	A10	M9 blank
+110714_butanol	C3	BUT2-8_1
+110714_butanol	F3	BUT2-9_1
+110714_butanol	D4	BUT3-3_3
+110714_butanol	C9	BUT7-6_1
+110714_butanol	E4	BUT3-6_1
+110714_butanol	H3	BUT2-9_3
+110714_butanol	E12	BUT9-7_3
+110714_butanol	D5	BUT4-4_1
+110714_butanol	E3	BUT2-8_3
+110714_butanol	B5	BUT3-7_2
+110714_butanol	B12	BUT9-5_3
+110714_butanol	C1	MG1655_3
+110714_butanol	B7	BUT5-3_1
+110714_butanol	G8	BUT6-8_1
+110714_butanol	B9	BUT6-8_3
+110714_butanol	B2	BUT1-3_2
+110714_butanol	A12	M9 blank
+110714_butanol	D7	BUT5-3_3
+110714_butanol	C7	BUT5-3_2
+110714_butanol	G12	BUT9-10_2
+110714_butanol	G4	BUT3-6_3
+110714_butanol	A4	M9 blank
+110714_butanol	C5	BUT3-7_3
+022815_hexanoate	H2	HEXA4-3sm_2
+022815_hexanoate	A3	HEXA8-2sm_1
+022815_hexanoate	C8	HEXA6-5lg_3
+022815_hexanoate	F10	HEXA6-9lg_2
+022815_hexanoate	F4	HEXA5-5_2
+022815_hexanoate	H9	HEXA6-7lg_3
+022815_hexanoate	A2	HEXA2-2_1
+022815_hexanoate	E8	HEXA6-6sm_2
+022815_hexanoate	F5	HEXA5-7_3
+022815_hexanoate	G11	HEXA7-4sm_1
+022815_hexanoate	F12	HEXA8-1lg_1
+022815_hexanoate	B1	MG1655_2
+022815_hexanoate	A11	HEXA8-5sm_3
+022815_hexanoate	C6	HEXA5-10_1
+022815_hexanoate	A9	HEXA8-5sm_1
+022815_hexanoate	E5	HEXA5-7_2
+022815_hexanoate	D6	HEXA5-10_2
+022815_hexanoate	C10	HEXA6-9sm_2
+022815_hexanoate	G1	HEXA1-7_2
+022815_hexanoate	F8	HEXA6-6sm_3
+022815_hexanoate	G3	HEXA4-6sm_2
+022815_hexanoate	D2	HEXA3-8_1
+022815_hexanoate	B6	HEXA5-8_3
+022815_hexanoate	E11	HEXA7-3sm_2
+022815_hexanoate	C12	HEXA8-1sm_1
+022815_hexanoate	G6	HEXA6-4sm_2
+022815_hexanoate	E9	HEXA6-7sm_3
+022815_hexanoate	E10	HEXA6-9lg_1
+022815_hexanoate	H12	HEXA8-1lg_3
+022815_hexanoate	E2	HEXA3-8_2
+022815_hexanoate	F6	HEXA6-4sm_1
+022815_hexanoate	G2	HEXA4-3sm_1
+022815_hexanoate	B11	HEXA7-2sm_2
+022815_hexanoate	D12	HEXA8-1sm_2
+022815_hexanoate	F11	HEXA7-3sm_3
+022815_hexanoate	A5	HEXA8-2sm_3
+022815_hexanoate	H5	HEXA5-8_2
+022815_hexanoate	G10	HEXA6-9lg_3
+022815_hexanoate	H4	HEXA5-6_1
+022815_hexanoate	E6	HEXA5-10_3
+022815_hexanoate	A7	HEXA8-2lg_2
+022815_hexanoate	D8	HEXA6-6sm_1
+022815_hexanoate	A6	HEXA8-2lg_1
+022815_hexanoate	F1	HEXA1-7_1
+022815_hexanoate	D10	HEXA6-9sm_3
+022815_hexanoate	E7	HEXA6-5sm_1
+022815_hexanoate	C11	HEXA7-2sm_3
+022815_hexanoate	D9	HEXA6-7sm_2
+022815_hexanoate	C2	HEXA2-2_3
+022815_hexanoate	H6	HEXA6-4sm_3
+022815_hexanoate	D11	HEXA7-3sm_1
+022815_hexanoate	B3	HEXA4-3sm_3
+022815_hexanoate	H10	HEXA7-2sm_1
+022815_hexanoate	B8	HEXA6-5lg_2
+022815_hexanoate	A1	MG1655_1
+022815_hexanoate	B4	HEXA4-6lg_1
+022815_hexanoate	C4	HEXA4-6lg_2
+022815_hexanoate	D1	MG1655_4
+022815_hexanoate	G5	HEXA5-8_1
+022815_hexanoate	B10	HEXA6-9sm_1
+022815_hexanoate	F9	HEXA6-7lg_1
+022815_hexanoate	H7	HEXA6-5lg_1
+022815_hexanoate	F7	HEXA6-5sm_2
+022815_hexanoate	D3	HEXA4-3lg_2
+022815_hexanoate	F2	HEXA3-8_3
+022815_hexanoate	E1	MG1655_5
+022815_hexanoate	H1	HEXA1-7_3
+022815_hexanoate	H11	HEXA7-4sm_2
+022815_hexanoate	A8	HEXA8-2lg_3
+022815_hexanoate	H8	HEXA6-6lg_2
+022815_hexanoate	G9	HEXA6-7lg_2
+022815_hexanoate	G7	HEXA6-5sm_3
+022815_hexanoate	A10	HEXA8-5sm_2
+022815_hexanoate	C3	HEXA4-3lg_1
+022815_hexanoate	F3	HEXA4-6sm_1
+022815_hexanoate	D4	HEXA4-6lg_3
+022815_hexanoate	C9	HEXA6-7sm_1
+022815_hexanoate	E4	HEXA5-5_1
+022815_hexanoate	H3	HEXA4-6sm_3
+022815_hexanoate	E12	HEXA8-1sm_3
+022815_hexanoate	D5	HEXA5-7_1
+022815_hexanoate	E3	HEXA4-3lg_3
+022815_hexanoate	B5	HEXA5-6_2
+022815_hexanoate	B12	HEXA7-4sm_3
+022815_hexanoate	C1	MG1655_3
+022815_hexanoate	B7	HEXA6-4lg_1
+022815_hexanoate	G8	HEXA6-6lg_1
+022815_hexanoate	B9	HEXA6-6lg_3
+022815_hexanoate	B2	HEXA2-2_2
+022815_hexanoate	A12	HEXA8-5lg_1
+022815_hexanoate	D7	HEXA6-4lg_3
+022815_hexanoate	C7	HEXA6-4lg_2
+022815_hexanoate	G12	HEXA8-1lg_2
+022815_hexanoate	G4	HEXA5-5_3
+022815_hexanoate	A4	HEXA8-2sm_2
+022815_hexanoate	C5	HEXA5-6_3
+012415_adipate	H2	ADIP2-5_2
+012415_adipate	A3	M9 blank
+012415_adipate	C8	ADIP7-2_1
+012415_adipate	F10	ADIP8-3_2
+012415_adipate	F4	ADIP3-4_2
+012415_adipate	H9	ADIP6-10_2
+012415_adipate	A2	ADIP1-6_1
+012415_adipate	E8	ADIP7-2_3
+012415_adipate	F5	ADIP4-1_3
+012415_adipate	G11	ADIP8-11
+012415_adipate	F12	ADIP8-18
+012415_adipate	B1	MG1655_2
+012415_adipate	A11	M9 blank
+012415_adipate	C6	ADIP4-8_1
+012415_adipate	A9	M9 blank
+012415_adipate	E5	ADIP4-1_2
+012415_adipate	D6	ADIP4-8_2
+012415_adipate	C10	ADIP7-10_2
+012415_adipate	G1	ADIP1-1_2
+012415_adipate	F8	ADIP7-5_1
+012415_adipate	G3	ADIP2-10_2
+012415_adipate	D2	ADIP1-9_1
+012415_adipate	B6	ADIP4-4_3
+012415_adipate	E11	ADIP8-10_2
+012415_adipate	C12	ADIP8-15
+012415_adipate	G6	ADIP5-2_2
+012415_adipate	E9	ADIP6-9_2
+012415_adipate	E10	ADIP8-3_1
+012415_adipate	H12	ADIP8-20
+012415_adipate	E2	ADIP1-9_2
+012415_adipate	F6	ADIP5-2_1
+012415_adipate	G2	ADIP2-5_1
+012415_adipate	B11	ADIP8-7_2
+012415_adipate	D12	ADIP8-16
+012415_adipate	F11	ADIP8-10_3
+012415_adipate	A5	M9 blank
+012415_adipate	H5	ADIP4-4_2
+012415_adipate	G10	ADIP8-3_3
+012415_adipate	H4	ADIP3-8_1
+012415_adipate	E6	ADIP4-8_3
+012415_adipate	A7	M9 blank
+012415_adipate	D8	ADIP7-2_2
+012415_adipate	A6	M9 blank
+012415_adipate	F1	ADIP1-1_1
+012415_adipate	D10	ADIP7-10_3
+012415_adipate	E7	ADIP5-6_1
+012415_adipate	C11	ADIP8-7_3
+012415_adipate	D9	ADIP6-9_1
+012415_adipate	C2	ADIP1-6_3
+012415_adipate	H6	ADIP5-2_3
+012415_adipate	D11	ADIP8-10_1
+012415_adipate	B3	ADIP2-5_3
+012415_adipate	H10	ADIP8-7_1
+012415_adipate	B8	ADIP6-10_3
+012415_adipate	A1	MG1655_1
+012415_adipate	B4	ADIP3-2_1
+012415_adipate	C4	ADIP3-2_2
+012415_adipate	D1	MG1655_4
+012415_adipate	G5	ADIP4-4_1
+012415_adipate	B10	ADIP7-10_1
+012415_adipate	F9	ADIP6-9_3
+012415_adipate	H7	ADIP6-3_1
+012415_adipate	F7	ADIP5-6_2
+012415_adipate	D3	ADIP2-6_2
+012415_adipate	F2	ADIP1-9_3
+012415_adipate	E1	MG1655_5
+012415_adipate	H1	ADIP1-1_3
+012415_adipate	H11	ADIP8-12
+012415_adipate	A8	M9 blank
+012415_adipate	H8	ADIP7-5_3
+012415_adipate	G9	ADIP6-10_1
+012415_adipate	G7	ADIP5-6_3
+012415_adipate	A10	M9 blank
+012415_adipate	C3	ADIP2-6_1
+012415_adipate	F3	ADIP2-10_1
+012415_adipate	D4	ADIP3-2_3
+012415_adipate	C9	ADIP6-3_3
+012415_adipate	E4	ADIP3-4_1
+012415_adipate	H3	ADIP2-10_3
+012415_adipate	E12	ADIP8-17
+012415_adipate	D5	ADIP4-1_1
+012415_adipate	E3	ADIP2-6_3
+012415_adipate	B5	ADIP3-8_2
+012415_adipate	B12	ADIP8-14
+012415_adipate	C1	MG1655_3
+012415_adipate	B7	ADIP5-5_1
+012415_adipate	G8	ADIP7-5_2
+012415_adipate	B9	ADIP6-3_2
+012415_adipate	B2	ADIP1-6_2
+012415_adipate	A12	ADIP8-13
+012415_adipate	D7	ADIP5-5_3
+012415_adipate	C7	ADIP5-5_2
+012415_adipate	G12	ADIP8-19
+012415_adipate	G4	ADIP3-4_3
+012415_adipate	A4	M9 blank
+012415_adipate	C5	ADIP3-8_3
+111914_putrescine	H2	PUTR2-4_2
+111914_putrescine	A3	M9 blank
+111914_putrescine	C8	PUTR6-2_3
+111914_putrescine	F10	PUTR8-3_2
+111914_putrescine	F4	PUTR3-9_2
+111914_putrescine	H9	PUTR7-7_3
+111914_putrescine	A2	PUTR1-6_1
+111914_putrescine	E8	PUTR6-7_2
+111914_putrescine	F5	PUTR4-3_3
+111914_putrescine	G11	M9 blank
+111914_putrescine	F12	M9 blank
+111914_putrescine	B1	MG1655_2
+111914_putrescine	A11	M9 blank
+111914_putrescine	C6	PUTR4-8_1
+111914_putrescine	A9	M9 blank
+111914_putrescine	E5	PUTR4-3_2
+111914_putrescine	D6	PUTR4-8_2
+111914_putrescine	C10	PUTR7-9_2
+111914_putrescine	G1	PUTR1-3_2
+111914_putrescine	F8	PUTR6-7_3
+111914_putrescine	G3	PUTR2-6_2
+111914_putrescine	D2	PUTR1-9_1
+111914_putrescine	B6	PUTR4-7_3
+111914_putrescine	E11	PUTR8-10_2
+111914_putrescine	C12	M9 blank
+111914_putrescine	G6	PUTR5-1_2
+111914_putrescine	E9	PUTR7-1_3
+111914_putrescine	E10	PUTR8-3_1
+111914_putrescine	H12	M9 blank
+111914_putrescine	E2	PUTR1-9_2
+111914_putrescine	F6	PUTR5-1_1
+111914_putrescine	G2	PUTR2-4_1
+111914_putrescine	B11	PUTR8-6_2
+111914_putrescine	D12	M9 blank
+111914_putrescine	F11	PUTR8-10_3
+111914_putrescine	A5	M9 blank
+111914_putrescine	H5	PUTR4-7_2
+111914_putrescine	G10	PUTR8-3_3
+111914_putrescine	H4	PUTR3-10_1
+111914_putrescine	E6	PUTR4-8_3
+111914_putrescine	A7	M9 blank
+111914_putrescine	D8	PUTR6-7_1
+111914_putrescine	A6	M9 blank
+111914_putrescine	F1	PUTR1-3_1
+111914_putrescine	D10	PUTR7-9_3
+111914_putrescine	E7	PUTR5-8_1
+111914_putrescine	C11	PUTR8-6_3
+111914_putrescine	D9	PUTR7-1_2
+111914_putrescine	C2	PUTR1-6_3
+111914_putrescine	H6	PUTR5-1_3
+111914_putrescine	D11	PUTR8-10_1
+111914_putrescine	B3	PUTR2-4_3
+111914_putrescine	H10	PUTR8-6_1
+111914_putrescine	B8	PUTR6-2_2
+111914_putrescine	A1	MG1655_1
+111914_putrescine	B4	PUTR3-1_1
+111914_putrescine	C4	PUTR3-1_2
+111914_putrescine	D1	MG1655_4
+111914_putrescine	G5	PUTR4-7_1
+111914_putrescine	B10	PUTR7-9_1
+111914_putrescine	F9	PUTR7-7_1
+111914_putrescine	H7	PUTR6-2_1
+111914_putrescine	F7	PUTR5-8_2
+111914_putrescine	D3	PUTR2-8_2
+111914_putrescine	F2	PUTR1-9_3
+111914_putrescine	E1	MG1655_5
+111914_putrescine	H1	PUTR1-3_3
+111914_putrescine	H11	M9 blank
+111914_putrescine	A8	M9 blank
+111914_putrescine	H8	PUTR6-10_2
+111914_putrescine	G9	PUTR7-7_2
+111914_putrescine	G7	PUTR5-8_3
+111914_putrescine	A10	M9 blank
+111914_putrescine	C3	PUTR2-8_1
+111914_putrescine	F3	PUTR2-6_1
+111914_putrescine	D4	PUTR3-1_3
+111914_putrescine	C9	PUTR7-1_1
+111914_putrescine	E4	PUTR3-9_1
+111914_putrescine	H3	PUTR2-6_3
+111914_putrescine	E12	M9 blank
+111914_putrescine	D5	PUTR4-3_1
+111914_putrescine	E3	PUTR2-8_3
+111914_putrescine	B5	PUTR3-10_2
+111914_putrescine	B12	M9 blank
+111914_putrescine	C1	MG1655_3
+111914_putrescine	B7	PUTR5-6_1
+111914_putrescine	G8	PUTR6-10_1
+111914_putrescine	B9	PUTR6-10_3
+111914_putrescine	B2	PUTR1-6_2
+111914_putrescine	A12	M9 blank
+111914_putrescine	D7	PUTR5-6_3
+111914_putrescine	C7	PUTR5-6_2
+111914_putrescine	G12	M9 blank
+111914_putrescine	G4	PUTR3-9_3
+111914_putrescine	A4	M9 blank
+111914_putrescine	C5	PUTR3-10_3
+110314_glutarate	H2	GLUT2-1_2
+110314_glutarate	A3	M9 blank
+110314_glutarate	C8	GLUT6-4_3
+110314_glutarate	F10	GLUT8-5_2
+110314_glutarate	F4	GLUT3-7_2
+110314_glutarate	H9	GLUT7-6_3
+110314_glutarate	A2	GLUT1-9_1
+110314_glutarate	E8	GLUT6-5_2
+110314_glutarate	F5	GLUT4-1_3
+110314_glutarate	G11	M9 blank
+110314_glutarate	F12	M9 blank
+110314_glutarate	B1	MG1655_2
+110314_glutarate	A11	M9 blank
+110314_glutarate	C6	GLUT4-10_1
+110314_glutarate	A9	M9 blank
+110314_glutarate	E5	GLUT4-1_2
+110314_glutarate	D6	GLUT4-10_2
+110314_glutarate	C10	GLUT7-7_2
+110314_glutarate	G1	GLUT1-3_2
+110314_glutarate	F8	GLUT6-5_3
+110314_glutarate	G3	GLUT2-10_2
+110314_glutarate	D2	GLUT1-10_1
+110314_glutarate	B6	GLUT4-4_3
+110314_glutarate	E11	GLUT8-9_2
+110314_glutarate	C12	M9 blank
+110314_glutarate	G6	GLUT5-4_2
+110314_glutarate	E9	GLUT7-2_3
+110314_glutarate	E10	GLUT8-5_1
+110314_glutarate	H12	M9 blank
+110314_glutarate	E2	GLUT1-10_2
+110314_glutarate	F6	GLUT5-4_1
+110314_glutarate	G2	GLUT2-1_1
+110314_glutarate	B11	GLUT8-6_2
+110314_glutarate	D12	M9 blank
+110314_glutarate	F11	GLUT8-9_3
+110314_glutarate	A5	M9 blank
+110314_glutarate	H5	GLUT4-4_2
+110314_glutarate	G10	GLUT8-5_3
+110314_glutarate	H4	GLUT3-9_1
+110314_glutarate	E6	GLUT4-10_3
+110314_glutarate	A7	M9 blank
+110314_glutarate	D8	GLUT6-5_1
+110314_glutarate	A6	M9 blank
+110314_glutarate	F1	GLUT1-3_1
+110314_glutarate	D10	GLUT7-7_3
+110314_glutarate	E7	GLUT5-9_1
+110314_glutarate	C11	GLUT8-6_3
+110314_glutarate	D9	GLUT7-2_2
+110314_glutarate	C2	GLUT1-9_3
+110314_glutarate	H6	GLUT5-4_3
+110314_glutarate	D11	GLUT8-9_1
+110314_glutarate	B3	GLUT2-1_3
+110314_glutarate	H10	GLUT8-6_1
+110314_glutarate	B8	GLUT6-4_2
+110314_glutarate	A1	MG1655_1
+110314_glutarate	B4	GLUT3-5_1
+110314_glutarate	C4	GLUT3-5_2
+110314_glutarate	D1	MG1655_4
+110314_glutarate	G5	GLUT4-4_1
+110314_glutarate	B10	GLUT7-7_1
+110314_glutarate	F9	GLUT7-6_1
+110314_glutarate	H7	GLUT6-4_1
+110314_glutarate	F7	GLUT5-9_2
+110314_glutarate	D3	GLUT2-9_2
+110314_glutarate	F2	GLUT1-10_3
+110314_glutarate	E1	MG1655_5
+110314_glutarate	H1	GLUT1-3_3
+110314_glutarate	H11	M9 blank
+110314_glutarate	A8	M9 blank
+110314_glutarate	H8	GLUT6-10_2
+110314_glutarate	G9	GLUT7-6_2
+110314_glutarate	G7	GLUT5-9_3
+110314_glutarate	A10	M9 blank
+110314_glutarate	C3	GLUT2-9_1
+110314_glutarate	F3	GLUT2-10_1
+110314_glutarate	D4	GLUT3-5_3
+110314_glutarate	C9	GLUT7-2_1
+110314_glutarate	E4	GLUT3-7_1
+110314_glutarate	H3	GLUT2-10_3
+110314_glutarate	E12	M9 blank
+110314_glutarate	D5	GLUT4-1_1
+110314_glutarate	E3	GLUT2-9_3
+110314_glutarate	B5	GLUT3-9_2
+110314_glutarate	B12	M9 blank
+110314_glutarate	C1	MG1655_3
+110314_glutarate	B7	GLUT5-5_1
+110314_glutarate	G8	GLUT6-10_1
+110314_glutarate	B9	GLUT6-10_3
+110314_glutarate	B2	GLUT1-9_2
+110314_glutarate	A12	M9 blank
+110314_glutarate	D7	GLUT5-5_3
+110314_glutarate	C7	GLUT5-5_2
+110314_glutarate	G12	M9 blank
+110314_glutarate	G4	GLUT3-7_3
+110314_glutarate	A4	M9 blank
+110314_glutarate	C5	GLUT3-9_3
+012215_hmda	H2	HMDA2-1_2
+012215_hmda	A3	M9 blank
+012215_hmda	C8	HMDA6-3_3
+012215_hmda	F10	HMDA8-5_2
+012215_hmda	F4	HMDA3-5_2
+012215_hmda	H9	HMDA7-7_3
+012215_hmda	A2	HMDA1-8_1
+012215_hmda	E8	HMDA6-7_2
+012215_hmda	F5	HMDA4-2_3
+012215_hmda	G11	M9 blank
+012215_hmda	F12	M9 blank
+012215_hmda	B1	MG1655_2
+012215_hmda	A11	M9 blank
+012215_hmda	C6	HMDA4-9_1
+012215_hmda	A9	M9 blank
+012215_hmda	E5	HMDA4-2_2
+012215_hmda	D6	HMDA4-9_2
+012215_hmda	C10	HMDA7-10_2
+012215_hmda	G1	HMDA1-6_2
+012215_hmda	F8	HMDA6-7_3
+012215_hmda	G3	HMDA2-9_2
+012215_hmda	D2	HMDA1-10_1
+012215_hmda	B6	HMDA4-6_3
+012215_hmda	E11	HMDA8-10_2
+012215_hmda	C12	M9 blank
+012215_hmda	G6	HMDA5-4_2
+012215_hmda	E9	HMDA7-1_3
+012215_hmda	E10	HMDA8-5_1
+012215_hmda	H12	M9 blank
+012215_hmda	E2	HMDA1-10_2
+012215_hmda	F6	HMDA5-4_1
+012215_hmda	G2	HMDA2-1_1
+012215_hmda	B11	HMDA8-9_2
+012215_hmda	D12	M9 blank
+012215_hmda	F11	HMDA8-10_3
+012215_hmda	A5	M9 blank
+012215_hmda	H5	HMDA4-6_2
+012215_hmda	G10	HMDA8-5_3
+012215_hmda	H4	HMDA3-6_1
+012215_hmda	E6	HMDA4-9_3
+012215_hmda	A7	M9 blank
+012215_hmda	D8	HMDA6-7_1
+012215_hmda	A6	M9 blank
+012215_hmda	F1	HMDA1-6_1
+012215_hmda	D10	HMDA7-10_3
+012215_hmda	E7	HMDA5-10_1
+012215_hmda	C11	HMDA8-9_3
+012215_hmda	D9	HMDA7-1_2
+012215_hmda	C2	HMDA1-8_3
+012215_hmda	H6	HMDA5-4_3
+012215_hmda	D11	HMDA8-10_1
+012215_hmda	B3	HMDA2-1_3
+012215_hmda	H10	HMDA8-9_1
+012215_hmda	B8	HMDA6-3_2
+012215_hmda	A1	MG1655_1
+012215_hmda	B4	HMDA3-4_1
+012215_hmda	C4	HMDA3-4_2
+012215_hmda	D1	MG1655_4
+012215_hmda	G5	HMDA4-6_1
+012215_hmda	B10	HMDA7-10_1
+012215_hmda	F9	HMDA7-7_1
+012215_hmda	H7	HMDA6-3_1
+012215_hmda	F7	HMDA5-10_2
+012215_hmda	D3	HMDA2-8_2
+012215_hmda	F2	HMDA1-10_3
+012215_hmda	E1	MG1655_5
+012215_hmda	H1	HMDA1-6_3
+012215_hmda	H11	M9 blank
+012215_hmda	A8	M9 blank
+012215_hmda	H8	HMDA6-10_2
+012215_hmda	G9	HMDA7-7_2
+012215_hmda	G7	HMDA5-10_3
+012215_hmda	A10	M9 blank
+012215_hmda	C3	HMDA2-8_1
+012215_hmda	F3	HMDA2-9_1
+012215_hmda	D4	HMDA3-4_3
+012215_hmda	C9	HMDA7-1_1
+012215_hmda	E4	HMDA3-5_1
+012215_hmda	H3	HMDA2-9_3
+012215_hmda	E12	M9 blank
+012215_hmda	D5	HMDA4-2_1
+012215_hmda	E3	HMDA2-8_3
+012215_hmda	B5	HMDA3-6_2
+012215_hmda	B12	M9 blank
+012215_hmda	C1	MG1655_3
+012215_hmda	B7	HMDA5-5_1
+012215_hmda	G8	HMDA6-10_1
+012215_hmda	B9	HMDA6-10_3
+012215_hmda	B2	HMDA1-8_2
+012215_hmda	A12	M9 blank
+012215_hmda	D7	HMDA5-5_3
+012215_hmda	C7	HMDA5-5_2
+012215_hmda	G12	M9 blank
+012215_hmda	G4	HMDA3-5_3
+012215_hmda	A4	M9 blank
+012215_hmda	C5	HMDA3-6_3
