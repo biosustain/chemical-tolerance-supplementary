@@ -57,8 +57,8 @@ def parse_plate_data(plate_dat, time_cutoff=None, phase_length_cutoff=5, max_slo
             best_phase = good_phases[best_index]
 
             plate_res[well] = {"slope": best_phase["slope"], "intercept": best_phase["intercept"],
-                               "baseline": best_phase["baselineValue"], "growth": True}
+                               "baseline": best_phase["baselineValue"], "growth": True, "start": best_phase["start"]}
         else:
-            plate_res[well] = {"slope": 0, "intercept": 0, "baseline": 0, "growth": False}
+            plate_res[well] = {"slope": 0, "intercept": 0, "baseline": 0, "growth": False, "start": float("nan")}
 
     return plate_res
