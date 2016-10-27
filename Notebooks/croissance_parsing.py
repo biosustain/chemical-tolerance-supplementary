@@ -11,6 +11,17 @@ def parse_plate_data(plate_dat, time_cutoff=None, phase_length_cutoff=5, max_slo
         times = well_dat["series"]["times"]
         ods = well_dat["series"]["values"]
         phases = well_dat["annotation"]["growthPhases"]
+        
+        for time, od in zip(times, ods):
+            if time > time_cutoff or times[-1]:
+                tod1 = float("nan")
+                break
+            if od > 1:
+                tod1 = time
+                break
+        else:
+            tod1 = float("nan")
+        
         good_phases = []
         for phase in phases:
             if phase["exclude"]:
@@ -57,8 +68,10 @@ def parse_plate_data(plate_dat, time_cutoff=None, phase_length_cutoff=5, max_slo
             best_phase = good_phases[best_index]
 
             plate_res[well] = {"slope": best_phase["slope"], "intercept": best_phase["intercept"],
-                               "baseline": best_phase["baselineValue"], "growth": True, "start": best_phase["start"]}
+                               "baseline": best_phase["baselineValue"], "growth": True,
+                               "start": best_phase["start"], "tod1": tod1}
         else:
-            plate_res[well] = {"slope": 0, "intercept": 0, "baseline": 0, "growth": False, "start": float("nan")}
+            plate_res[well] = {"slope": 0, "intercept": 0, "baseline": 0, "growth": False,
+                               "start": float("nan"), "tod1": tod1}
 
     return plate_res
