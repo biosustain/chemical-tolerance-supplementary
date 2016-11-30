@@ -16,7 +16,7 @@ for (compound in c("COUM", "IBUA", "PUTR", "HMDA", "OCTA", "HEXA")) {
   
   gsa_res_strain <- runGSA(df["STRAIN"] * df["strain_direction"], geneSetStat = "gsea", gsc=gene_sets, gsSizeLim = c(2, Inf))
   
-  gsa_res_interaction <- runGSA(df["STRAIN.MEDIUM"] * df["interaction_direction"], geneSetStat = "gsea", gsc=gene_sets, gsSizeLim = c(2, Inf))
+  gsa_res_interaction <- runGSA(df["MEDIUM.STRAIN"] * df["interaction_direction"], geneSetStat = "gsea", gsc=gene_sets, gsSizeLim = c(2, Inf))
   
   out_res <- data.frame(
     gsa_res_medium$statDistinctDir,

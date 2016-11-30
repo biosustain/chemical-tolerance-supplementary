@@ -13,7 +13,7 @@ def parse_plate_data(plate_dat, time_cutoff=None, phase_length_cutoff=5, max_slo
         phases = well_dat["annotation"]["growthPhases"]
         
         for time, od in zip(times, ods):
-            if time > time_cutoff or times[-1]:
+            if time_cutoff is not None and time > time_cutoff:
                 tod1 = float("nan")
                 break
             if od > 1:
